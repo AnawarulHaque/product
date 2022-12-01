@@ -1,0 +1,51 @@
+.tal{
+	margin-left: auto;
+	margin-right: auto;
+}
+a{
+	font-size:24px;
+}
+.dv{
+	text-align: center;
+	margin-top:50px;
+}
+.dvl{
+	text-align: center;
+	margin-top:20px;
+}
+.tb{
+	font-size:19px;
+}
+.taf{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:30px;
+	border:2px solid blue;
+	background-color:cyan;
+	font-size:23px;
+	border-radius: 10px;
+}
+.tdp{
+	padding:10px;
+}
+.bt{
+	font-size:19px;
+	padding:5px 15px;
+	color:white;
+	background-color: #008AFC;
+	border:none;
+	cursor: hand;
+	border-radius: 5px;
+}
+.tar{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:30px;
+	border-collapse: collapse;
+	font-size:21px;
+	width:55%;
+}
+
+
+
+
